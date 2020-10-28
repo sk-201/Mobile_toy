@@ -1,0 +1,23 @@
+
+body{
+    background-color: black;
+    font-weight: bold;
+}
+.no{
+    color: black;
+    background-color:#f1f1f1;
+    float: left;
+    padding: 5% 5%;
+    margin-left:10% ;
+    margin-bottom:5% ;
+    
+    
+} 
+.container{
+width: 30%;
+height: 30%;
+margin: auto;   
+}
+.l{
+    margin-right: 20%;
+}
